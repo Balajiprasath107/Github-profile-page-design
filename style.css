@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: black;
+    padding: 10px 0;
+}
+.container{
+    display: flex;
+}
+.container p{
+    color: white;
+    font-size: 9vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 150px;
+
+}
+.section{
+    padding: 5vh 5vw;
+    display: flex;
+    background-color: #cad2c5;
+}
+.box1{
+    height: 76vh;
+    width: 20vw;
+    background-color: #353535;
+    border-radius: 2vh;
+
+}
+.section2{
+    margin-left: auto;
+}
+.searchbox{
+    height: 8vh;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #353535;
+    border-radius: 2vh;
+
+}
+.searchbox p{
+    color: white;
+    font-size: 6vh;
+    margin-left: 2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.threebox{
+    width: 65vw;
+    display: flex;
+    margin-top: 10vh;
+    justify-content: space-between;
+}
+.threebox1{
+    height: 25vh;
+    width: 20vw;
+    border-radius: 2vh;
+    background-color: #353535;
+}
+.threebox2{
+    height: 25vh;
+    width: 20vw;
+    border-radius: 2vh;
+    background-color: #353535;
+}
+.threebox3{
+    height: 25vh;
+    width: 20vw;
+    border-radius: 2vh;
+    background-color: #353535;
+}
+.endbox{
+    height: 20vh;
+    width: 65vw;
+    margin-top: 10vh;
+    border-radius: 2vh;
+    background-color: #353535;
+}
